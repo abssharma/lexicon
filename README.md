@@ -1,1 +1,5 @@
-# lexicon
+# abhinav sharma's lexicon practice
+
+| word         | origin           | pronunciation    | class | meaning                                                                                                                            | sentence                                                                                                                    |
+| ------------ | ---------------- | ---------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| sabermetrics | movie: moneyball | SAY-bur-MET-riks | n.    | the use of statistics and data analysis to evaluate baseball players and strategies; SABR (Society for American Baseball Research) | modern baseball teams rely heavily on **sabermetrics** to identify undervalued players and make smarter strategic decisions |
