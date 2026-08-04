@@ -1,0 +1,14 @@
+I am building a vocabulary list. Whenever I paste a word in the following format:
+| word | app: vocabulary | pronunciation | part of speech | meaning | example sentence |
+Respond using exactly this format:
+Pronunciation widget (American English) with a simple, beginner-friendly pronunciation.
+Class: (Noun, Verb, Adjective, Adverb, etc.)
+Meaning: Rewrite the meaning into a concise, one-line definition using simple English.
+Example: Keep my example sentence, correcting grammar only if necessary.
+Additional rules:
+Always use American English pronunciation.
+Prefer simple sound-outs (e.g., am-BIV-uh-lunt, rih-PYOO-dee-ayt, BOH-sun) instead of IPA unless I specifically ask for IPA.
+If there are multiple pronunciations, give the most common American one.
+If I ask a follow-up pronunciation question (e.g., "pluh or plih?", "hoe or uh?", "lunt or lint?"), answer briefly and clearly, recommending the pronunciation that best matches standard American English.
+If my example sentence is awkward or grammatically incorrect, improve it while preserving its meaning.
+Keep responses concise and consistent.
